@@ -1,0 +1,61 @@
+{
+    "name":"Mi primer PWA",
+    "short_name":"PWA",
+    "description":"Esta es mi primer PWA",
+    "display":"standalone",
+    "start_url":"./?_source=web_app_manifest",
+    "background_color":"#0969ff",
+    "theme_color":"#0969ff",
+    "orientation":"portrait",
+    "scope":"./",
+    "lang":"es-MX",
+    "icons":[
+        {
+            "src":"img/logos/logo16.png",
+            "sizes":"16x16",
+            "type":"image/png"
+        },
+        {
+            "src":"img/logos/logo32.png",
+            "sizes":"32x32",
+            "type":"image/png"
+        },
+        {
+            "src":"img/logos/logo64.png",
+            "sizes":"64x64",
+            "type":"image/png"
+        },
+        {
+            "src":"img/logos/logo92.png",
+            "sizes":"92x92",
+            "type":"image/png"
+        },
+        {
+            "src":"img/logos/logo128.png",
+            "sizes":"128x128",
+            "type":"image/png"
+        },
+        {
+            "src":"img/logos/logo196.png",
+            "sizes":"196x196",
+            "type":"image/png"
+        },
+        {
+            "src":"img/logos/logo256.png",
+            "sizes":"256x256",
+            "type":"image/png"
+        },
+        
+        {
+            "src":"img/logos/logo512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        },
+        {
+            "src":"img/logos/logo1024.png",
+            "sizes":"1024x1024",
+            "type":"image/png"
+        }
+    ]
+
+}
